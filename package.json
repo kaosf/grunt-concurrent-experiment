@@ -1,0 +1,14 @@
+{
+  "name": "grunt-concurrent-experiment",
+  "version": "0.0.0",
+  "description": "grunt-concurrent experiment",
+  "scripts": {
+    "test": "echo ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kaosf/grunt-concurrent-experiment.git"
+  },
+  "author": "ka",
+  "license": "MIT"
+}
