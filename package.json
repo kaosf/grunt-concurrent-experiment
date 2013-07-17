@@ -10,5 +10,9 @@
     "url": "git@github.com:kaosf/grunt-concurrent-experiment.git"
   },
   "author": "ka",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-concurrent": "~0.3.0"
+  }
 }
